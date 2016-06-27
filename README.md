@@ -1,3 +1,0 @@
-# Projects
-
-Projects I've worked on during Wyncode.
